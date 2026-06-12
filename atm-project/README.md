@@ -1,10 +1,27 @@
-atm features:
-- pin
-- withdrawel
-- credit
-- transaction histroy
-- balance keeps updating as per execution of the codes
+# ATM Python
 
-i used the help of ai and learnt thru the errors.
+A simple ATM simulator built while learning Python from scratch.
 
-hello, im a complete beginner to python and ive recently come up with an project 'atm' and i thought it was pretty good and im still learning and trying to make it as accurate as a working real time atm. Thanks for viewing my project and if you have any recommendations please let me know.
+## Features
+
+- PIN verification
+- Balance checking
+- Deposits
+- Withdrawals
+- Transaction history
+
+## How to Run
+
+1. Install Python
+2. Download the project
+3. Run:
+
+python atm.py
+
+## What I Learned
+
+- Variables
+- If/Else statements
+- While loops
+- User input
+- Basic program design
